@@ -4,12 +4,6 @@ A single-page web app that helps users in Bangladesh exchange their ৳500 or �
 
 ---
 
-## 📸 Preview
-
-![App Flowchart](flowchart.png)
-
----
-
 ## ✨ Features
 
 - **Real Bangladeshi Taka Note Images** — All 6 denominations (৳10 to ৳500) displayed with authentic note photos throughout the app
@@ -50,10 +44,10 @@ No installation, no dependencies. Just open the HTML file.
 git clone https://github.com/your-username/vangti-kombinator.git
 
 # Open in browser
-open taka_kombinator_v2.html
+open taka_kombinator.html
 ```
 
-Or simply **download** `taka_kombinator_v2.html` and open it in any modern browser.
+Or simply **download** `taka_kombinator.html` and open it in any modern browser.
 
 ---
 
@@ -97,7 +91,7 @@ User picks quantities with `+` / `−` controls. The app tracks the running tota
 
 ```
 vangti-kombinator/
-├── taka_kombinator_v2.html   # Main app (all-in-one, self-contained)
+├── taka_kombinator.html      # Main app (all-in-one, self-contained)
 ├── flowchart.jpg             # System design diagram
 └── README.md                 # This file
 ```
